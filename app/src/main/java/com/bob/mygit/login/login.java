@@ -11,4 +11,8 @@ public class login {
         return super.clone();
     }
 
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
